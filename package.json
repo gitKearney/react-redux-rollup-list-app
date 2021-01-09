@@ -1,0 +1,20 @@
+{
+  "name": "redux-rollup-grocery-list",
+  "version": "1.0.0",
+  "description": "Redux using babel and rollup",
+  "main": "index.js",
+  "author": "Kearney Taaffe",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "@rollup/plugin-commonjs": "^17.0.0",
+    "@rollup/plugin-node-resolve": "^11.0.1",
+    "babel-cli": "6",
+    "babel-preset-react-app": "3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5",
+    "rollup": "^2.35.1",
+    "rollup-plugin-replace": "^2.2.0"
+  }
+}
